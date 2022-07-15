@@ -993,3 +993,4 @@ Recommended: 511.79
 [2022.07.15-19.55.07:526][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2022.07.15-19.55.07:620][  1]LogAssetRegistry: Asset discovery search completed in 20.5628 seconds
 [2022.07.15-19.55.07:628][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000019 seconds (updated 0 objects)
+[2022.07.15-19.56.45:818][693]LogDerivedDataCache: C:/Users/Thomas Paul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.020 and deleted 0 file(s) with total size 0 MiB.
